@@ -1,4 +1,4 @@
-<h2>### I'm Njoro007 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70"> </h2>
+<h2>I'm Njoro007 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70"> </h2>
 
 <!--
 **Njoro007/Njoro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
