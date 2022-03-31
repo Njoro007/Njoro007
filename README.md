@@ -3,7 +3,7 @@
 <p float="left">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007&layout=compact"/>
   
 </p>
 
@@ -19,6 +19,24 @@
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/19a46b26-e019-493f-8619-b77ce3c808b1.svg"></embed></figure>
 
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/9ceec231-36df-49e3-841d-4e714828f672.svg"></embed></figure>
+
+name: Work Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
 <!--END_SECTION:waka-->
 
 
