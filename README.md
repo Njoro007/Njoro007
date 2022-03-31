@@ -20,25 +20,6 @@
 
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/9ceec231-36df-49e3-841d-4e714828f672.svg"></embed></figure>
 
-name: Work Stats Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.894d9ea5-2905-4cd3-b345-406ca50d1da2 }}
-          
-<!--END_SECTION:waka-->
-
 
 
 
