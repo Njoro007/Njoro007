@@ -8,6 +8,14 @@
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/9ceec231-36df-49e3-841d-4e714828f672.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+
+
+
 <!--
 **Njoro007/Njoro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
