@@ -1,6 +1,10 @@
 <h2>I'm Njoro007 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70"> </h2>
 
 <p float="left">
+<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed></figure>
+</P>
+
+<p float="left">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007&layout=compact"/>
