@@ -9,11 +9,7 @@ Freelancer Developer
 </p>
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/philip_nj?style=social)
-
-[![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038)
-
-[![GitHub Njoro007](https://img.shields.io/github/followers/Njoro007?label=follow&style=social)](https://github.com/Njoro007)
+![Twitter Follow](https://img.shields.io/twitter/follow/philip_nj?style=social)[![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038)[![GitHub Njoro007](https://img.shields.io/github/followers/Njoro007?label=follow&style=social)](https://github.com/Njoro007)
 
 
 <em>Mail Me -> </em> 
