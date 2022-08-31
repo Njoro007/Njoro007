@@ -27,6 +27,7 @@ Freelancer Developer
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
 
+<hr/>
 
 
 <p float="left">
