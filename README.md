@@ -2,10 +2,14 @@
 
 <p>
 <em>Software Engineer and Customer Success at <a href="https://www.computeresources.co.ke">Computer Resources</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"></br>Freelancer Developer 
+</br>
+Freelancer Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em>
 </p>
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/philip_nj?style=social)
 
 [![Twitter: philip_nj](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/philip_nj)
 [![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/services/page/0002803185301ba038)
