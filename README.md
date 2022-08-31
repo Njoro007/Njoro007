@@ -7,13 +7,14 @@
 </em>
 </p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/philip_nj)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/services/page/0002803185301ba038)
+[![Twitter: philip_nj](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/philip_nj)
+[![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/services/page/0002803185301ba038)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Njoro007)
 
-<p>
-<em>Mail Me -> </em> [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
-</p>
+
+<em>Mail Me -> </em> 
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+
 
 <p float="left">
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed></figure>
