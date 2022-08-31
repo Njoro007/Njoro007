@@ -8,6 +8,7 @@ Freelancer Developer
 </em>
 </p>
 
+</br>
 
 ![Twitter Follow link=https://twitter.com/philip_nj](https://img.shields.io/twitter/follow/philip_nj?style=social) [![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038) [![GitHub Njoro007](https://img.shields.io/github/followers/Njoro007?label=follow&style=social)](https://github.com/Njoro007)
 
@@ -18,8 +19,14 @@ Freelancer Developer
 ## :computer: Technologies I Love
 * C# and VB.NET Languages
 * MAUI, Windows Forms, ASP Net Core and APIs
-* Cloud Computing (Azure) Consultation and Management
+* Cloud Computing (Azure) Consultant and Management
 * ADO.NET, Entity Framework
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+
 
 
 <p float="left">
@@ -27,11 +34,10 @@ Freelancer Developer
 </P>
 
 <p float="left">
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  
 </p>
+
+
 
 <p float="left">
   
