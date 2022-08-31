@@ -22,11 +22,16 @@ Freelancer Developer
 <p float="left">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007&layout=compact"/>
+
   
 </p>
 
-
+<p float="left">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark"/>
+  
+</p>
 
 
 <!--START_SECTION:waka-->
