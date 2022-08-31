@@ -26,12 +26,7 @@ Freelancer Developer
   
 </p>
 
-<p float="left">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark"/>
-  
-</p>
+
 
 
 <!--START_SECTION:waka-->
