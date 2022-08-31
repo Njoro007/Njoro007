@@ -30,9 +30,10 @@ Freelancer Developer
 <hr/>
 
 
-<p float="left">
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed></figure>
-</P>
+<figure>
+<embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed>
+</figure>
+
 
 <p float="left">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
