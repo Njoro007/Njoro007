@@ -15,6 +15,13 @@ Freelancer Developer
 [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
 
+## :computer: Technologies I Love
+* C# and VB.NET Languages
+* MAUI, Windows Forms, ASP Net Core and APIs
+* Cloud Computing (Azure) Consultation and Management
+* ADO.NET, Entity Framework
+
+
 <p float="left">
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed></figure>
 </P>
@@ -32,6 +39,11 @@ Freelancer Developer
 <img src="https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark"/>
   
 </p>
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
 
 
 <!--START_SECTION:waka-->
