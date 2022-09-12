@@ -37,9 +37,7 @@ Freelancer Developer
 </figure>
 
 
-<p float="left">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njoro007&theme=earth&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Njoro007&theme=earth&border_radius=5)](https://git.io/streak-stats)
