@@ -18,9 +18,9 @@ Freelancer Developer
 
 ## :computer: Technologies I Love
 ✨  C# and VB.NET Languages  <br/>
-✨  MAUI, Windows Forms, ASP Net Core and APIs<br/>
+✨  My Type of Project 😜 MAUI, Windows Forms, ASP Net Core and APIs<br/>
 ✨  💬 Ask me about Azure Cloud Computing<br/>
-✨  ADO.NET, Entity Framework<br/>
+✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
 
 ## Programming Languages
