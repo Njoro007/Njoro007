@@ -17,11 +17,11 @@ Freelancer Developer
 
 
 ## :computer: Technologies I Love
-✨  C# and VB.NET Languages
-✨  MAUI, Windows Forms, ASP Net Core and APIs
-✨  💬 Ask me about Azure Cloud Computing
-✨  ADO.NET, Entity Framework
-✨  Visual Studio IDE is my Play Ground
+✨  C# and VB.NET Languages  <br/>
+✨  MAUI, Windows Forms, ASP Net Core and APIs<br/>
+✨  💬 Ask me about Azure Cloud Computing<br/>
+✨  ADO.NET, Entity Framework<br/>
+✨  Visual Studio IDE is my Play Ground<br/>
 
 ## Programming Languages
 <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/aws-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/azure-v2-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/visual-studio-svgrepo-com.svg' height='30'/>  <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/c-sharp-svgrepo-com%20(1).svg' width='30'/> <img src='https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/dot-net-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/windows-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/aspx-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/vbproj-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/windows-svgrepo-com.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
