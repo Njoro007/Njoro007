@@ -18,7 +18,7 @@ Freelancer Developer
 
 ## :computer: Technologies I Love
 ✨  C# and VB.NET Languages  <br/>
-✨  My Type of Project 😜 <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/icons8-api-48.png' width='30'/>  MAUI, Windows Forms, ASP Net Core and APIs<br/>
+✨  My Type of Project 😜 <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/winking-face-with-tongue_1f61c.png' width='30'/>  MAUI, Windows Forms, ASP Net Core and APIs<br/>
 ✨  💬 Ask me about Azure Cloud Computing<br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
