@@ -1,7 +1,7 @@
 <h2>I'm Njoro007 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"> </h2>
 
 <p>
-<em>Software Engineer and Customer Success at <a href="https://www.computeresources.co.ke">Computer Resources</a>
+<em>Software, Web Developer and Customer Success at <a href="https://www.computeresources.co.ke">Computer Resources</a>
 </br>
 Freelancer Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
@@ -13,12 +13,12 @@ Freelancer Developer
 ![Twitter Follow link=https://twitter.com/philip_nj](https://img.shields.io/twitter/follow/philip_nj?style=social) [![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038) [![GitHub Njoro007](https://img.shields.io/github/followers/Njoro007?label=follow&style=social)](https://github.com/Njoro007)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
 
 ## :computer: Technologies I Love
 ✨  C# and VB.NET Languages  <br/>
-✨  My Type of Project 😜 MAUI, Windows Forms, ASP Net Core and APIs<br/>
+✨  My Types 😜 --> MAUI, Windows Forms, ASP Net Core and API projects<br/>
 ✨  💬 Ask me about Azure Cloud Computing<br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
