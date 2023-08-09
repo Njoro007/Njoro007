@@ -3,8 +3,9 @@
 <p>
 <em>.NET Developer and Customer Success at <a href="https://www.computeresources.co.ke">Computer Resources</a>
 </em>
+</p>
 <br/>
- 
+<p>
 ## 👯 I’m looking to collaborate on new startup projects with experience in cross-platform Software Applications built to run on private or organized cloud services. Works in both team and self-directed settings.
 </p>
 
@@ -15,6 +16,7 @@
 
 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
+##
 
 ## :computer: Technologies I Love
 ✨  C# and VB.NET Languages  <br/>
