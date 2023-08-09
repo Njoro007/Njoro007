@@ -3,6 +3,9 @@
 <p>
 <em>.NET Developer and Customer Success at <a href="https://www.computeresources.co.ke">Computer Resources</a>
 </em>
+<br/>
+ 
+## 👯 I’m looking to collaborate on new startup projects with experience in cross-platform Software Applications built to run on private or organized cloud services. Works in both team and self-directed settings.
 </p>
 
 </br>
@@ -15,16 +18,19 @@
 
 ## :computer: Technologies I Love
 ✨  C# and VB.NET Languages  <br/>
-✨  My Types 😜 --> MAUI, Windows Forms, ASP Net Core and API projects<br/>
+✨  🔭 Currently Working on --> MAUI, Windows Forms, ASP Net Core and API projects <br/>
 ✨  💬 Ask me about Azure Cloud Computing<br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
 
+
 ## Programming Languages
 
-<img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/azure-v2-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/visual-studio-svgrepo-com.svg' height='30'/>  <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/c-sharp-svgrepo-com%20(1).svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/aspx-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/vbproj-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/windows-svgrepo-com.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/azure-v2-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/visual-studio-svgrepo-com.svg' height='30'/>  <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/c-sharp-svgrepo-com%20(1).svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/aspx-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/vbproj-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Njoro007/Njoro007/blob/master/SVG%20Images/windows-svgrepo-com.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
 <hr/>
+
+
 
 ## Did you like my work?
 
