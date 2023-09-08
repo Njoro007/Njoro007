@@ -19,9 +19,9 @@
 ##
 
 ## :computer: Technologies I Love
+✨  💬 Ask me about Software, Websites and Cloud<br/>
 ✨  C# and VB.NET Languages  <br/>
-✨  🔭 Currently Working on --> MAUI, Windows Forms, ASP Net Core and API projects <br/>
-✨  💬 Ask me about Azure Cloud Computing<br/>
+✨  🔭 Currently Working Using --> MAUI, Windows Forms, ASP Net Core and API projects <br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
 
