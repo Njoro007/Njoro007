@@ -20,7 +20,7 @@
 
 ##
 
-## :computer: Technologies I Love
+## :computer: Technologies I work with
 ✨  💬 Ask me about Software, Websites and Cloud<br/>
 ✨  C# and VB.NET Languages  <br/>
 ✨  🔭 Currently Working Using --> MAUI, Windows Forms, ASP Net Core and API projects <br/>
