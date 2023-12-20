@@ -23,7 +23,7 @@
 ## :computer: Technologies I work with
 ✨  💬 Ask me about Software, Websites and Cloud<br/>
 ✨  C# and VB.NET Languages  <br/>
-✨  🔭 Currently Working Using --> MAUI, Windows Forms, ASP Net Core and API projects <br/>
+✨  🔭 Currently Working Using --> Blazor, Windows Forms, ASP Net Core and API projects <br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
 
