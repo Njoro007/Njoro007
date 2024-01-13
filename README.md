@@ -1,3 +1,22 @@
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+
+
+
+
 <h2>I'm Njoro007 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
@@ -26,21 +45,6 @@
 ✨  🔭 Currently Working Using --> Blazor, Windows Forms, ASP Net Core and API projects <br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
-
-## title {.tabset .tabset-fade}
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content  Contact
-
-### tab Revisions
-
-tab content  Revisions
 
 
 
