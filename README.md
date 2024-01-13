@@ -27,6 +27,22 @@
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
 
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+
 
 ## Platforms and Programming Languages
 
