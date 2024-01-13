@@ -1,22 +1,3 @@
-## title {.tabset .tabset-fade}
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content  Contact
-
-### tab Revisions
-
-tab content  Revisions
-
-
-
-
-
 <h2>I'm Njoro007 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
