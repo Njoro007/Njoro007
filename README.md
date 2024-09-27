@@ -17,7 +17,7 @@
 
 <hr/>
 
-Are you seeking such talent? Reach out to me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+Are you seeking such services? Reach out to me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
 ## 🚢: How do I accomplish projects?
 ✨  I build using the .NET eco-system, a collection of tools, libraries, and services built by Microsoft <br/>
