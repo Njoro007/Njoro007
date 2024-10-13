@@ -13,7 +13,7 @@
 🌐<em> <a target="_blank" href="https://www.sevenwonderssafaris.co.ke">Seven Wonders Safaris </a> </em> <br/>
 🏢<em> <a target="_blank" href="https://www.computeresources.co.ke/Services/Property">Property Management System </a> </em> <br/>
 🌐<em> <a target="_blank" href="https://professionaledge.co.ke/">Professional Edge </a> </em> <br/>
-🌐<em> <a target="_blank" href="https://group4sacco.co.ke/">Group 4 SACCO </a> </em>
+🌐<em> <a target="_blank" href="https://group4sacco.co.ke/">Group 4 SACCO </a> </em> <br/>
 🌐<em> <a target="_blank" href="https://olkaunselsacco.org/">Olkaunsel SACCO </a> </em> 
 
 <hr/>
