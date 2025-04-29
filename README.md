@@ -5,13 +5,16 @@
 </p>
 
 <p>
-🌱 I'm a software and website developer. My expertise lies in financial technology (FinTech), where I design solutions that streamline processes, enhance security, and drive efficiency. I have a knack for building software and websites, ensuring seamless user experiences. My secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
+🌱 Philip a Kenyan, was born along the mountain slopes of Mount Kenya. Growing up as the youngest of three siblings, he was raised in a family that valued hard work, education, and creativity. His Kikuyu heritage has shaped his perspective and deep appreciation for culture and community. As a lifelong explorer of technology, Philip’s curiosity about computers and innovation started at an early age. Outside of his technical pursuits, he finds joy in mountain biking, embracing the thrill of the trails and the beauty of nature. A music enthusiast, finding rhythm both in melodies and in life’s adventures.
 </p>
 
-## Here's my work
+## Here's some of my public work
+<p>
+🌱 Expertise lies in financial technology (FinTech), designing solutions that streamline processes, enhance security, and drive efficiency. Knack for building software and websites using .NET technology, ensuring seamless user experiences. Secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
+</p>
 
 🌐<em> <a target="_blank" href="https://www.sevenwonderssafaris.co.ke">Seven Wonders Safaris </a> </em> <br/>
-🏢<em> <a target="_blank" href="https://www.computeresources.co.ke">Computer Resources</a> </em> <br/>
+🌐<em> <a target="_blank" href="https://www.computeresources.co.ke">Computer Resources</a> </em> <br/>
 🌐<em> <a target="_blank" href="https://professionaledge.co.ke/">Professional Edge </a> </em> <br/>
 🌐<em> <a target="_blank" href="https://group4sacco.co.ke/">Group 4 SACCO </a> </em> <br/>
 🌐<em> <a target="_blank" href="https://olkaunselsacco.org/">Olkaunsel SACCO </a> </em> 
