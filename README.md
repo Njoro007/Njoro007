@@ -1,16 +1,12 @@
 <h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
-<em>🏢 Currently working at a financial technology (FinTech) company, <a href="https://www.computeresources.co.ke">Computer Resources Ltd.</a> </em>
+🌱 Philip, a Kenyan, was born along the mountain slopes of Mount Kenya. As a lifelong explorer of technology, Philip’s curiosity about computers and innovation started at an early age. Outside of his technical pursuits, he finds joy in mountain biking, embracing the thrill of the trails and the beauty of nature. A music enthusiast, finding rhythm both in melodies and life’s adventures.
 </p>
 
+## Expertise under my sleeves
 <p>
-🌱 Philip a Kenyan, was born along the mountain slopes of Mount Kenya. Growing up as the youngest of three siblings, he was raised in a family that valued hard work, education, and creativity. His Kikuyu heritage has shaped his perspective and deep appreciation for culture and community. As a lifelong explorer of technology, Philip’s curiosity about computers and innovation started at an early age. Outside of his technical pursuits, he finds joy in mountain biking, embracing the thrill of the trails and the beauty of nature. A music enthusiast, finding rhythm both in melodies and in life’s adventures.
-</p>
-
-## Here's some of my public work
-<p>
-🌱 Expertise lies in financial technology (FinTech), designing solutions that streamline processes, enhance security, and drive efficiency. Knack for building software and websites using .NET technology, ensuring seamless user experiences. Secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
+🌱 Expertise lies in financial technology (FinTech), designing solutions that streamline processes, enhance security, and drive efficiency. Knack for building software and websites using .net technology, ensuring seamless user experiences. Secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
 </p>
 
 🌐<em> <a target="_blank" href="https://www.sevenwonderssafaris.co.ke">Seven Wonders Safaris </a> </em> <br/>
@@ -21,13 +17,13 @@
 
 <hr/>
 
-Are you seeking such services? Reach out to me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+Could you let me know if you're seeking such services? Reach out to me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
 ## 🚢: How do I accomplish projects?
-✨  I build using the .NET eco-system, a collection of tools, libraries, and services built by Microsoft <br/>
+✨  I build using the .net ecosystem, a collection of tools, libraries, and services built by Microsoft <br/>
 ✨  I build 💡 and work on projects using Blazor, Windows Forms, ASP Net Core or using MAUI <br/>
 ✨  I interact with data using ADO.NET and Entity Framework <br/>
-✨  Visual Studio IDE is my Play Ground <br/>
+✨  Visual Studio IDE is my Playground <br/>
 
 <hr/>
 
