@@ -1,50 +1,175 @@
-<h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
+# Hi, I'm Philip Njoroge 👋
 
-<p>
-🌱 Philip, a Kenyan, was born along the mountain slopes of Mount Kenya. As a lifelong explorer of technology, Philip’s curiosity about computers and innovation started at an early age. Outside of his technical pursuits, he finds joy in mountain biking, embracing the thrill of the trails and the beauty of nature. A music enthusiast, finding rhythm both in melodies and life’s adventures.
-</p>
+Software Developer | .NET Engineer | QUT Master of IT (Software Development)
 
-## Expertise under my sleeves
-<p>
-🌱 Expertise lies in financial technology (FinTech), designing solutions that streamline processes, enhance security, and drive efficiency. Knack for building software and websites using .net technology, ensuring seamless user experiences. Secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
-</p>
+I'm a software developer from Kenya currently based in Brisbane, Australia, and completing a **Master of Information Technology (Software Development)** at **Queensland University of Technology (QUT)**.
 
-🌐<em> <a target="_blank" href="https://www.sevenwonderssafaris.co.ke">Seven Wonders Safaris </a> </em> <br/>
-🌐<em> <a target="_blank" href="https://www.computeresources.co.ke">Computer Resources</a> </em> <br/>
-🌐<em> <a target="_blank" href="https://professionaledge.co.ke/">Professional Edge </a> </em> <br/>
-🌐<em> <a target="_blank" href="https://group4sacco.co.ke/">Group 4 SACCO </a> </em> <br/>
-🌐<em> <a target="_blank" href="https://olkaunselsacco.org/">Olkaunsel SACCO </a> </em> 
+I bring over **five years of professional software development experience**, specialising in Microsoft's .NET ecosystem and building solutions across Financial Technology (FinTech), enterprise software, cloud platforms, and business systems.
 
-<hr/>
+My goal is simple: build technology that solves real problems, improves user experiences, and creates measurable value for organisations and communities.
 
-Could you let me know if you're seeking such services? Reach out to me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+---
 
-## 🚢: How do I accomplish projects?
-✨  I build using the .net ecosystem, a collection of tools, libraries, and services built by Microsoft <br/>
-✨  I build 💡 and work on projects using Blazor, Windows Forms, ASP Net Core or using MAUI <br/>
-✨  I interact with data using ADO.NET and Entity Framework <br/>
-✨  Visual Studio IDE is my Playground <br/>
+# About Me
 
-<hr/>
+My professional experience has primarily been within the **financial software sector**, where I have contributed to the development and modernisation of:
 
-## Tech Platforms and Programming Languages
+- Financial Technology (FinTech) solutions
+- Payroll and Human Resource systems
+- Cooperative and SACCO management platforms
+- Hospital management systems
+- Point of Sale (POS) solutions
+- Cloud-enabled enterprise applications
+
+Alongside software development, I have worked closely with customers, business users, and technical teams to deliver practical solutions that improve operational efficiency and reliability.
+
+---
+
+# Currently
+
+🎓 Final Semester – Master of Information Technology (Software Development)  
+📍 Brisbane, Queensland, Australia  
+💼 Working remotely as a .NET Developer  
+☁️ Building cloud-enabled solutions using Microsoft Azure  
+🌱 Continuously learning software architecture, cloud technologies, and modern engineering practices
+
+---
+
+# Technical Expertise
+
+## Languages & Frameworks
+
+- C#
+- .NET
+- ASP.NET Core
+- Blazor
+- WinForms
+- WinUI 3
+- .NET MAUI
+
+## Cloud & DevOps
+
+- Microsoft Azure
+- Azure DevOps
+- GitHub
+- IIS
+- Virtual Machines
+
+## Data & Reporting
+
+- MySQL
+- MariaDB
+- Entity Framework
+- ADO.NET
+- Crystal Reports
+- Syncfusion
+
+## Integrations
+
+- Mpesa
+- AfricasTalking
+- Gmail OAuth
+- WhatsApp Cloud API
+- REST APIs
+
+---
+
+# Open Source
+
+I actively contribute to open-source software and enjoy collaborating with developer communities.
+
+My contributions include accepted pull requests to production projects within the .NET ecosystem. Open-source development has strengthened my skills in:
+
+- Collaborative software engineering
+- Code reviews
+- Software quality practices
+- Documentation
+- Continuous improvement
+
+---
+
+# Areas of Interest
+
+- Software Engineering
+- Cloud Computing
+- Microsoft Azure
+- Financial Technology (FinTech)
+- Enterprise Systems
+- Application Modernisation
+- API Development
+- Open Source Software
+
+---
+
+# Education
+
+### Queensland University of Technology (QUT)
+
+**Master of Information Technology**  
+Major: Software Development  
+Expected Completion: 2026
+
+### Catholic University of Eastern Africa
+
+**Bachelor of Computer Science**
+
+---
+
+# Leadership & Achievements
+
+- IBM Water Innovation Hackathon — First Place
+- NASA Space Apps Challenge — Global Nominee
+- Secretary, Google Developer Students Club (CUEA)
+- Open Source Contributor (.NET Ecosystem)
+- Community Volunteer, Friends of Ruiru Dam (FORD)
+
+---
+
+# Beyond Technology
+
+Outside software development, I enjoy:
+
+- Exploring new places around Queensland
+- Mountain biking
+- Live music and performance
+- Learning about emerging technologies
+
+Having grown up near Mount Kenya, curiosity, resilience, and continuous learning have been central themes throughout both my professional and personal journey.
+
+---
+
+# Let's Connect
+
+📧 **Email:** njurunjoroge@gmail.com
+
+📍 **Location:** Brisbane, Queensland, Australia
+
+💼 **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+# Technology Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,azure,bootstrap,cs,dotnet,gcp,mysql,postman,visualstudio,windows"/>
+    <img src="https://skillicons.dev/icons?i=github,azure,bootstrap,cs,dotnet,gcp,mysql,postman,visualstudio,windows" />
   </a>
 </p>
- 
-<hr/>
 
-## If you liked my work? <a href="https://bmc.link/Njoro007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+---
 
-<hr/>
+# GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Njoro007&theme=earth&border_radius=5)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Njoro007&theme=earth&border_radius=5)
 
-<hr/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark)
 
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/f1efbc82-58c0-4d6d-ac5d-d713400ca9a5.svg"></embed></figure>
+---
 
+# WakaTime Statistics
 
+[View Coding Activity](https://wakatime.com)
+
+---
+
+*"Technology is best when it improves people's lives
