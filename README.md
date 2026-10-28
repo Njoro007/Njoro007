@@ -144,7 +144,7 @@ Having grown up near Mount Kenya, curiosity, resilience, and continuous learning
 
 📍 **Location:** Brisbane, Queensland, Australia
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/philip-njoroge-b93537b6/)
 
 ---
 
