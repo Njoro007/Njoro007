@@ -1,50 +1,44 @@
 <h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 
-**Software Developer | .NET Engineer | QUT Master of IT (Software Development)**
+**Kenyan-born, Queensland-based .NET engineer.** I turn coffee, C# and customer feedback into software that works.
 
 ![Location](https://img.shields.io/badge/Location-Queensland%2C%20Australia-blue?style=flat-square&logo=googlemaps&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20years-512bd4?style=flat-square&logo=dotnet&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-FinTech%20%7C%20Cloud-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Degree](https://img.shields.io/badge/QUT%20MIT-Software%20Development-003a6c?style=flat-square)
+![Stack](https://img.shields.io/badge/.NET-C%23%20%7C%20Azure-512bd4?style=flat-square&logo=dotnet&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-FinTech%20%7C%20AI%20%7C%20Cloud-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-🌱 Born along the slopes of Mount Kenya and now living in Queensland, Australia, I've been curious about computers and innovation since I was young. I'm in my **final semester** of a **Master of Information Technology (Software Development)** at **Queensland University of Technology (QUT)**, finishing at the end of 2026, and I work remotely as a .NET developer.
+```text
+$ whoami
+philip  # Master of Information Technology (Software Development), QUT
 
-🎯 My goal: build technology that solves real problems, improves user experiences and creates measurable value for organisations and communities. I'm aiming to grow into a senior software engineer, or a tech entrepreneur.
+$ git log --oneline --career
+a1b2c3d Born near Mount Kenya, curious about computers from day one
+b2c3d4e Built SACCO, payroll and hospital systems that real people rely on
+c3d4e5f Dragged 1999-era legacy apps into hybrid cloud (they went quietly)
+d4e5f6a Moved to Queensland, levelled up with a Master's at QUT
+HEAD -> now: building cool things, still no semicolon left behind
+```
 
 ---
 
-## 🛠️ Expertise under my sleeves
+## 🛠️ What I do
 
-With **5+ years** of professional experience, I specialise in Microsoft's .NET ecosystem and in **financial technology (FinTech)**: software that streamlines processes, strengthens security and drives efficiency. My secret weapon is technical skills that complement each other, paired with a focus on customer success.
+I make **FinTech and enterprise software** with 5+ years of .NET behind it: the kind of systems where money, payroll and patients' records have to be right the first time. I like it when software gets out of people's way.
 
-### 💼 Experience
+- 💳 Payments and integrations: M-Pesa, Africa's Talking, Gmail API, WhatsApp, Kopo Kopo, Azure
+- 🏦 SACCO and microfinance platforms, payroll and HR, hospital systems, POS
+- ☁️ Modernising old-school apps into hybrid cloud ones
+- 📦 Author of [**Foresight.Common.CS**](https://www.nuget.org/packages/Foresight.Common.CS), a widely used NuGet library (180,000+ downloads on NuGet.org)
+- 🌍 Open source: had pull requests accepted into Africa's Talking projects
 
-**.NET Developer and Customer Success, Computer Resources Ltd** (Jan 2020 – Feb 2025, Kenya)
-
-- Modernised 1999-era legacy applications into hybrid cloud apps
-- Built microfinance and SACCO web applications
-- Wrote [**Foresight.Common.CS**](https://www.nuget.org/packages/Foresight.Common.CS), a widely used NuGet library (180,000+ downloads on NuGet.org) integrating M-Pesa, Africa's Talking, Gmail API, WhatsApp, Azure and Kopo Kopo
-- Set up networks and Active Directory
-- Had pull requests accepted into Africa's Talking open-source projects (2020)
-
-**IT Technician / Support L2** at a Kenyan IT firm, where I built ASP.NET Core MVC websites for a company, a safari business and a Rotary club.
-
-### 🏗️ Domains I've worked in
-
-- 💳 FinTech and payment integrations
-- 🏦 Cooperative, SACCO and microfinance platforms
-- 👥 Payroll and HR systems
-- 🏥 Hospital management systems
-- 🛒 Point of Sale (POS) solutions
-- ☁️ Cloud-enabled enterprise applications
+> *"It works on my machine"* is not a deployment strategy. I use Azure DevOps instead.
 
 ## 🚢 How do I accomplish projects?
 
-✨ I build with the **.NET ecosystem**: C#, VB, ASP.NET Core / MVC, Blazor, WinForms, WinUI 3 and .NET MAUI  
-✨ I work with data using **ADO.NET**, **Entity Framework**, MySQL and MariaDB  
-✨ I ship with **Microsoft Azure**, Azure DevOps, Git/GitHub and IIS, and I'm at home with Active Directory and Entra  
-✨ I connect systems through REST APIs, M-Pesa, Africa's Talking, Gmail OAuth and the WhatsApp Cloud API  
-✨ I report with Crystal Reports and Syncfusion  
-✨ Visual Studio is my playground
+✨ **.NET all the way:** C#, ASP.NET Core / MVC, Blazor, WinForms, WinUI 3, .NET MAUI  
+✨ **Data:** ADO.NET, Entity Framework, MySQL, MariaDB  
+✨ **Ship it:** Azure, Azure DevOps, Git/GitHub, IIS, Active Directory and Entra  
+✨ **Playground:** Visual Studio, naturally
 
 ## 🧰 Tech Stack
 
@@ -56,36 +50,30 @@ With **5+ years** of professional experience, I specialise in Microsoft's .NET e
 
 ---
 
-## 🌍 Open Source
+## 🎓 Level unlocked: Master's at QUT
 
-I contribute to open-source projects, including accepted pull requests to production projects in the .NET ecosystem. It has sharpened my collaboration, code review, software quality and documentation skills.
+I'm doing a **Master of Information Technology (Software Development)** at **Queensland University of Technology**, with an undergraduate Computer Science degree from the Catholic University of Eastern Africa behind it. Same obsession as before, now with more architecture diagrams.
 
-## 🏆 Leadership & Achievements
+## 🏆 Side quests completed
 
-- 🥇 IBM Water Innovation Hackathon: First Place
-- 🚀 NASA Space Apps Challenge: Global Nominee
-- 💻 Secretary, Google Developer Students Club (CUEA)
-- 🌱 Community Volunteer, Friends of Ruiru Dam (FORD)
-- 🔧 Open Source Contributor (.NET ecosystem)
+- 🥇 **IBM Water Innovation Hackathon:** First Place
+- 🚀 **NASA Space Apps Challenge:** Global Nominee
+- 💻 Secretary of the Google Developer Students Club at CUEA
+- 🌱 Volunteer with Friends of Ruiru Dam (FORD)
 
-## 🎓 Education
+## 🔭 Currently into
 
-- **Queensland University of Technology (QUT)**: Master of Information Technology, Software Development (expected end of 2026)
-- **Catholic University of Eastern Africa**: Bachelor of Computer Science
+AI 🤖 · Cloud ☁️ · FinTech 💳 · Application modernisation · Open source. The long-term plan is senior software engineer, or maybe founding something of my own.
 
-## 🔭 Areas of Interest
+## 🚵 Off the keyboard
 
-AI · Cloud Computing · Microsoft Azure · FinTech · Software Engineering · Enterprise Systems · Application Modernisation · API Development · Open Source
-
-## 🚵 Beyond Technology
-
-Mountain biking, live music and performance, exploring new places around Queensland, and learning about emerging technologies. Growing up near Mount Kenya made curiosity, resilience and continuous learning central to who I am.
+Mountain biking, live music, and exploring Queensland. Growing up on the slopes of Mount Kenya taught me that every climb has a view, and that the downhill is the best part.
 
 ---
 
 ## 🤝 Let's Connect
 
-Are you looking for these kinds of services? Reach out:
+Got a project, a bug that "only happens in production", or a good coffee spot? Reach out:
 
 📧 **Email:** njurunjoroge@gmail.com
 
