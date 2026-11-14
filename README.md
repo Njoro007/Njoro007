@@ -1,23 +1,11 @@
 <h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 
-**Kenyan-born, Queensland-based .NET engineer.** I turn coffee, C# and customer feedback into software that works.
+**Kenyan-born, moved to Queensland, Australia 🐨, levelled up with a Master's at Q.U.T and based .NET engineer.** I turn coffee, C# and customer feedback into software that works.
 
 ![Location](https://img.shields.io/badge/Location-Queensland%2C%20Australia-blue?style=flat-square&logo=googlemaps&logoColor=white)
 ![Degree](https://img.shields.io/badge/QUT%20MIT-Software%20Development-003a6c?style=flat-square)
 ![Stack](https://img.shields.io/badge/.NET-C%23%20%7C%20Azure-512bd4?style=flat-square&logo=dotnet&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-FinTech%20%7C%20AI%20%7C%20Cloud-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-```text
-$ whoami
-philip  # Master of Information Technology (Software Development), QUT
-
-$ git log --oneline --career
-a1b2c3d Born near Mount Kenya, curious about computers from day one
-b2c3d4e Built SACCO, payroll and hospital systems that real people rely on
-c3d4e5f Dragged 1999-era legacy apps into hybrid cloud (they went quietly)
-d4e5f6a Moved to Queensland, levelled up with a Master's at QUT
-HEAD -> now: building cool things, still no semicolon left behind
-```
 
 ---
 
@@ -27,8 +15,7 @@ I make **FinTech and enterprise software** with 5+ years of .NET behind it: the 
 
 - 💳 Payments and integrations: M-Pesa, Africa's Talking, Gmail API, WhatsApp, Kopo Kopo, Azure
 - 🏦 SACCO and microfinance platforms, payroll and HR, hospital systems, POS
-- ☁️ Modernising old-school apps into hybrid cloud ones
-- 📦 Author of [**Foresight.Common.CS**](https://www.nuget.org/packages/Foresight.Common.CS), a widely used NuGet library (180,000+ downloads on NuGet.org)
+- ☁️ Dragged 1999-era legacy apps into hybrid cloud
 - 🌍 Open source: had pull requests accepted into Africa's Talking projects
 
 > *"It works on my machine"* is not a deployment strategy. I use Azure DevOps instead.
@@ -53,13 +40,6 @@ I make **FinTech and enterprise software** with 5+ years of .NET behind it: the 
 ## 🎓 Level unlocked: Master's at QUT
 
 I'm doing a **Master of Information Technology (Software Development)** at **Queensland University of Technology**, with an undergraduate Computer Science degree from the Catholic University of Eastern Africa behind it. Same obsession as before, now with more architecture diagrams.
-
-## 🏆 Side quests completed
-
-- 🥇 **IBM Water Innovation Hackathon:** First Place
-- 🚀 **NASA Space Apps Challenge:** Global Nominee
-- 💻 Secretary of the Google Developer Students Club at CUEA
-- 🌱 Volunteer with Friends of Ruiru Dam (FORD)
 
 ## 🔭 Currently into
 
