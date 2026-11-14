@@ -3,7 +3,7 @@
 **Kenyan-born, Queensland-based 🐨 .NET engineer, levelled up with a Master's from QUT.** I turn coffee, C# and customer feedback into software that works.
 
 ![Location](https://img.shields.io/badge/Location-Queensland%2C%20Australia-blue?style=flat-square&logo=googlemaps&logoColor=white)
-![Degree](https://img.shields.io/badge/QUT%20MIT-Software%20Development-003a6c?style=flat-square)
+[![Degree](https://img.shields.io/badge/QUT%20MIT-Software%20Development-003a6c?style=flat-square)](https://www.qut.edu.au/)
 ![Stack](https://img.shields.io/badge/.NET-C%23%20%7C%20Azure-512bd4?style=flat-square&logo=dotnet&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-FinTech%20%7C%20AI%20%7C%20Cloud-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
 
