@@ -1,6 +1,6 @@
 <h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 
-**Kenyan-born, moved to Queensland, Australia 🐨, levelled up with a Master's at Q.U.T and based .NET engineer.** I turn coffee, C# and customer feedback into software that works.
+**Kenyan-born, Queensland-based 🐨 .NET engineer, levelled up with a Master's from QUT.** I turn coffee, C# and customer feedback into software that works.
 
 ![Location](https://img.shields.io/badge/Location-Queensland%2C%20Australia-blue?style=flat-square&logo=googlemaps&logoColor=white)
 ![Degree](https://img.shields.io/badge/QUT%20MIT-Software%20Development-003a6c?style=flat-square)
